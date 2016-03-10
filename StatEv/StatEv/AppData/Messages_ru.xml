@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages>
+  <Message name="AppTitle">
+    <value>Оценка статистики</value>
+  </Message>
+  <Message name="AppVersion">
+    <value>Версия: </value>
+  </Message>
+  <Message name="AppAuthor">
+    <value>Роман Гомозов</value>
+  </Message>
+
+  <!-- MenuItem Titles-->
+  <Message name="MenuItem_File">
+    <value>Файл</value>
+  </Message>
+  <Message name="MenuItem_Load">
+    <value>Загрузить статы</value>
+  </Message>
+  <Message name="MenuItem_Save">
+    <value>Сохранить статы</value>
+  </Message>
+  <Message name="MenuItem_Exit">
+    <value>Выход</value>
+  </Message>
+  <Message name="MenuItem_Settings">
+    <value>Настройки</value>
+  </Message>
+  <Message name="MenuItem_Language">
+    <value>Язык</value>
+  </Message>
+  <Message name="MenuItem_StatsRange">
+    <value>Диапазоны</value>
+  </Message>
+  <Message name="MenuItem_About">
+    <value>О программе</value>
+  </Message>
+  
+</Messages>

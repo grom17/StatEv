@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages>
+  <Message name="AppTitle">
+    <value>Statictic Evaluation</value>
+  </Message>
+  <Message name="AppVersion">
+    <value>Version: </value>
+  </Message>
+  <Message name="AppAuthor">
+    <value>Roman Gomozov</value>
+  </Message>
+  
+  <!-- MenuItem Titles-->
+  <Message name="MenuItem_File">
+    <value>File</value>
+  </Message>
+  <Message name="MenuItem_Load">
+    <value>Load stats </value>
+  </Message>
+  <Message name="MenuItem_Save">
+    <value>Save stats</value>
+  </Message>
+  <Message name="MenuItem_Exit">
+    <value>Exit</value>
+  </Message>
+  <Message name="MenuItem_Settings">
+    <value>Settings</value>
+  </Message>
+  <Message name="MenuItem_Language">
+    <value>Language</value>
+  </Message>
+  <Message name="MenuItem_StatsRange">
+    <value>Stats range</value>
+  </Message>
+  <Message name="MenuItem_About">
+    <value>About</value>
+  </Message>
+  
+</Messages>
